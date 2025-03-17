@@ -1,12 +1,38 @@
-# React + Vite
+# Ecommerce Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is an Ecommerce project built with [Technology Stack] (e.g., React, Vite, Node.js, etc.).
 
-Currently, two official plugins are available:
+## 📌 Prerequisites
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Before running this project, ensure you have the following installed:
 
-## Expanding the ESLint configuration
+- **Node.js** (v14 or later) - [Download here](https://nodejs.org/)
+- **Git** - [Download here](https://git-scm.com/)
+- **Package Manager** (npm, yarn, or pnpm)
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🚀 Getting Started
+
+### 1️⃣ Clone the Repository
+
+Open your terminal and run:
+
+```bash
+git clone https://github.com/akshayp1754/e-commercce.git
+cd your-repo
+
+Install Dependencies
+Run the following command to install required dependencies:
+
+bash
+Copy
+Edit
+npm install
+
+ Start the Development Server
+To run the project in development mode:
+
+bash
+Copy
+Edit
+npm run dev
+
